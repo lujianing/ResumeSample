@@ -13,7 +13,7 @@
  - 工作年限：3年
  - 技术博客：[http://my.oschina.net/lujianing/blog](http://my.oschina.net/lujianing/blog)
  - 期望职位：Java程序员，移动开发后台或管理
- - 期望薪资：税前月薪15k~25k，有名的公司可例外
+ - 期望薪资：税前月薪15k~25k
  - 期望城市：北京
  - 个人评价：学习能力强，工作态度端正，责任心强，被迫全栈，希望进入合适平台，深入某一领域发展
 
@@ -87,8 +87,7 @@
 - 版本管理：Svn/Git
 - 项目管理、任务管理、文档:Maven/Jira/Confluence
 - 开发工具：IntellijIDEA/Eclipse/Xcode
-- 云和开放平台：微信开放平台/百度开放平台
-
+- 云和开放平台：阿里云/微信开放平台/百度开放平台
 
 ---
 
