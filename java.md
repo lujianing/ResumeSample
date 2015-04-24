@@ -66,7 +66,8 @@
 
 - [Spring高级事务管理难点剖析](http://my.oschina.net/lujianing/blog/305903)
 
-- [Intellij IDEA创建Maven Web项目](http://my.oschina.net/lujianing/blog/266172) 
+- [Maven多模块项目介绍和搭建](http://my.oschina.net/lujianing/blog/354121) 
+
 - [Windows下Redis的安装使用](http://my.oschina.net/lujianing/blog/266172)
 
 - [nodejs入门—搭建一个聊天室应用](http://my.oschina.net/lujianing/blog/298679)
